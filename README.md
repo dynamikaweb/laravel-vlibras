@@ -3,8 +3,8 @@ dynamikasolucoesweb/laravel-vlibras
 ![php version](https://img.shields.io/packagist/php-v/dynamikasolucoesweb/laravel-vlibras)
 ![pkg version](https://img.shields.io/packagist/v/dynamikasolucoesweb/laravel-vlibras)
 ![license](https://img.shields.io/packagist/l/dynamikasolucoesweb/laravel-vlibras)
-![quality](https://img.shields.io/scrutinizer/quality/g/dynamikasolucoesweb/laravel-vlibras)
-![build](https://img.shields.io/scrutinizer/build/g/dynamikasolucoesweb/laravel-vlibras)
+![quality](https://img.shields.io/scrutinizer/quality/g/dynamikaweb/laravel-vlibras)
+![build](https://img.shields.io/scrutinizer/build/g/dynamikaweb/laravel-vlibras)
 
 O Laravel VLibras é a maneira mais rápida e eficiente de integrar o widget oficial de acessibilidade do Governo Federal em aplicações Laravel. 100% Plug & Play, sem necessidade de configuração manual de scripts ou publicação de assets obrigatória.
 
